@@ -88,8 +88,8 @@ pkg install python
 pkg install openssl
 pkg install php
 
-git clone https://github.com/Geetorus/GEETORUS-KIT.git
-cd GEETORUS-KIT
+git clone https://github.com/Geetorus/geetoruskit.git
+cd geetoruskit
 bash install.sh
 python3 -m pip install -r requirements.txt
 python3 st.py
